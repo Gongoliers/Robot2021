@@ -43,13 +43,14 @@ public class Robot extends TimedRobot {
 
         oi = new OI();
 
+        // Add low goal
         // autoChooser.addOption("Low Goal", new AutoLowGoal());
-        autoChooser.setDefaultOption("Shoot 3 No Delay", new AutoShoot3());
-        autoChooser.addOption("Shoot 3 Delay 2s", new AutoShoot3(2));
-        autoChooser.addOption("Shoot 3 Delay 3s", new AutoShoot3(3));
-        autoChooser.addOption("Shoot 3 Delay 4s", new AutoShoot3(4));
-        autoChooser.addOption("Shoot 3 Delay 5s", new AutoShoot3(5));
-        autoChooser.addOption("Shoot 6 Trench", new AutoShoot6());
+        // autoChooser.setDefaultOption("Shoot 3 No Delay", new AutoShoot3());
+        // autoChooser.addOption("Shoot 3 Delay 2s", new AutoShoot3(2));
+        // autoChooser.addOption("Shoot 3 Delay 3s", new AutoShoot3(3));
+        // autoChooser.addOption("Shoot 3 Delay 4s", new AutoShoot3(4));
+        // autoChooser.addOption("Shoot 3 Delay 5s", new AutoShoot3(5));
+        // autoChooser.addOption("Shoot 6 Trench", new AutoShoot6());
         autoChooser.addOption("No Auto", null);
         SmartDashboard.putData("Auto mode", autoChooser);
         
