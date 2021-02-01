@@ -1,11 +1,10 @@
-![Java Gradle Build](https://github.com/Gongoliers/Robot2020/workflows/Java%20Gradle%20Build/badge.svg)
-# Robot2020
- Team 5112's official competition code for FRC Infinite Recharge 2020 season.
+![Java Gradle Build](https://github.com/Gongoliers/Robot2021/workflows/Java%20Gradle%20Build/badge.svg)
+# Robot2021
+ Team 5112's official competition code for FRC's 2021 season.
  Our robot code uses our homemade [Library of Gongolierium](https://github.com/Gongoliers/Library-of-Gongolierium), which you can easily implement in your robot code.
  
  #### What is FRC?
- The FIRST Robotics Competition is an international high school robotics competition that gives students just 7 weeks to design a 125 pound robot to complete challenges and play a sport!  [Learn more about this years game here.](https://www.youtube.com/watch?v=gmiYWTmFRVE)
-
+ The FIRST Robotics Competition is an international high school robotics competition that gives students just 7 weeks to design a 125 pound robot to complete challenges and play a sport!
 ## Controls
 We use a joystick / flightstick for driving the chassis and we use an Xbox controller for manipulating the other subsystems.
 ![Xbox Controller Mappings](https://github.com/Gongoliers/Robot2020/raw/master/XboxController.png "Xbox Controller Mappings")
