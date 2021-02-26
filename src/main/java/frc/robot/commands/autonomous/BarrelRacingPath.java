@@ -5,8 +5,6 @@ import com.thegongoliers.paths.SimplePath;
 
 import edu.wpi.first.wpilibj.command.CommandGroup;
 import frc.robot.Robot;
-import frc.robot.commands.drivetrain.DriveDistance;
-import frc.robot.commands.powercell.ShootPowerCellLow;
 
 /**
  * Drives straight forwards to the low goal of the POWER PORT
