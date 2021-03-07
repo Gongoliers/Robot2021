@@ -22,13 +22,13 @@ public class BarrelRacingPath extends CommandGroup {
         path.addStraightAway(2.5);
         path.addRotation(80);
         path.addStraightAway(13);
-        path.addRotation(45);
+        path.addRotation(-45);
         path.addStraightAway(3);
-        path.addRotation(135);
+        path.addRotation(-135);
         path.addStraightAway(6);
-        path.addRotation(120);
+        path.addRotation(-120);
         path.addStraightAway(3);
-        path.addRotation(90);
+        path.addRotation(-90);
         path.addStraightAway(20);
 
         addSequential(

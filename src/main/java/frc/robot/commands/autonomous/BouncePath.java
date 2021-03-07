@@ -23,7 +23,7 @@ public class BouncePath extends CommandGroup {
         path.addStraightAway(10.98);
         path.addRotation(161);
         path.addStraightAway(10.98);
-        path.addRotation(81);
+        path.addRotation(-81);
         path.addStraightAway(4.2);
         path.addRotation(-86);
         path.addStraightAway(10.05);

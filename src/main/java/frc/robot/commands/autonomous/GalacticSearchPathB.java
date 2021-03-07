@@ -31,7 +31,7 @@ public class GalacticSearchPathB extends CommandGroup {
             paths4.addRotation(50);
             paths4.addStraightAway(10.69);
         } else {
-            paths1.addRotation(10);
+            paths1.addRotation(11);
             paths1.addStraightAway(12.75);
             paths2.addRotation(-56);
             paths2.addStraightAway(7.07);
